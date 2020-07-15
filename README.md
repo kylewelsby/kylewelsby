@@ -1,6 +1,6 @@
 # Hi, I'm Kyle 👋🏾 👨🏾‍💻
 
-![banner that says Kyle Welsby - software engineer, celebrating 20+ years of internet hakery alongside a cartoon emoji face illustration of Kyle](./heading.svg)
+![banner that says Kyle Welsby - software engineer, celebrating 20+ years of internet hakery alongside a cartoon emoji face illustration of Kyle](https://raw.githubusercontent.com/kylewelsby/kylewelsby/master/heading%402x.png)
 <!--
 <div style="display: flex; justify-content: center; align-content: center; align-items: center;">
 <div style="background-color:#4FC08D; padding: 1rem; flex: 1;text-align:center;">
