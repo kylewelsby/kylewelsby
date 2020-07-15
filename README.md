@@ -1,7 +1,7 @@
 # Hi, I'm Kyle 👋🏾 👨🏾‍💻
 
 ![banner that says Kyle Welsby - software engineer, celebrating 20+ years of internet hakery alongside a cartoon emoji face illustration of Kyle](./heading.svg)
-
+<!--
 <div style="display: flex; justify-content: center; align-content: center; align-items: center;">
 <div style="background-color:#4FC08D; padding: 1rem; flex: 1;text-align:center;">
 <svg width="24" height="24" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js icon</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z" fill="#fff"></path></svg>
@@ -19,6 +19,7 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Firebase icon</title><path d="M3.89 15.673L6.255.461A.542.542 0 0 1 7.27.289L9.813 5.06 3.89 15.673zm16.795 3.691L18.433 5.365a.543.543 0 0 0-.918-.295l-14.2 14.294 7.857 4.428a1.62 1.62 0 0 0 1.587 0l7.926-4.428zM14.3 7.148l-1.82-3.482a.542.542 0 0 0-.96 0L3.53 17.984 14.3 7.148z" fill="#fff"></path></svg>
 </div>
 </div>
+-->
 
 I am a software engineer passionate about delivering fantastic customer experiences and business objectives, creating tools to automate repetitive tasks and improve the betterment and discovery of information. 🕵🏾‍♂️
 
