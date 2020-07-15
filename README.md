@@ -33,6 +33,6 @@ I have been welcomed by the community of Soulection to maintain the [Tracklist w
 - 🙏🏾Help and Mentoring on [CodeMentor](https://www.codementor.io/@kylewelsby)
 - 🖐🏾Updates and availability on [LinkedIn](https://www.linkedin.com/in/mekyle/)
 - 📸Travel Photography and in-the-moment stories on [Instagram](https://www.instagram.com/halfcubeuk)
-- 🌱Taisty Plant-based food I eat also on [Instagram](https://www.instagram.com/halfcubeeats/)
+- 🌱Tasty Plant-based food I eat also on [Instagram](https://www.instagram.com/halfcubeeats/)
 - ✍🏾Random ramblings and shoutouts on [Twitter](https://twitter.com/halfcube)
 - 👍More communication methods on my [Website](https://mekyle.com)
