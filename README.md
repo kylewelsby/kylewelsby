@@ -25,7 +25,7 @@ I am a software engineer passionate about delivering fantastic customer experien
 
 Some technologies I enjoy working with include Vue.js, Ruby on Rails, Firebase, and Jamstack (JavaScript, APIs + Markup). 👨🏾‍💻
 
-I have been welcomed by the community of Soulection to maintain the [Tracklist website](https://soulectiontracklists.com/) in my own time. The website receives over 10,000 visits per month 👀 and the community have [donated over \$700](https://soulectiontracklists.com/open/) since 2018 to the website. 🙏🏾
+I have been welcomed by the community of Soulection to maintain the [Tracklist website](https://soulectiontracklists.com/?ref=GitHub) in my own time. The website receives over 10,000 visits per month 👀 and the community have [donated over \$700](https://soulectiontracklists.com/open/?ref=GitHub) since 2018 to the website. 🙏🏾
 
 ## Find me around the internet 🌍:
 
@@ -35,4 +35,4 @@ I have been welcomed by the community of Soulection to maintain the [Tracklist w
 - 📸Travel Photography and in-the-moment stories on [Instagram](https://www.instagram.com/halfcubeuk)
 - 🌱Tasty Plant-based food I eat also on [Instagram](https://www.instagram.com/halfcubeeats/)
 - ✍🏾Random ramblings and shoutouts on [Twitter](https://twitter.com/halfcube)
-- 👍More communication methods on my [Website](https://mekyle.com)
+- 👍More communication methods on my [Website](https://mekyle.com/?ref=GitHub)
