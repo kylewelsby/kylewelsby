@@ -23,9 +23,12 @@
 
 I am a software engineer passionate about delivering fantastic customer experiences and business objectives, creating tools to automate repetitive tasks and improve the betterment and discovery of information. 🕵🏾‍♂️
 
+Currently a Senior Software Developer at [Shopify](https://www.shopify.com/careers/2021) and really enjoying the team and projects I'm working on. 🛍
+
 Some technologies I enjoy working with include [Vue.js](/vuejs/vue), [Nuxt.js](/nuxt/nuxt.js), [Ruby on Rails](/rails/rails), and [Supabase.io](/supabase/supabase). 👨🏾‍💻
 
-I have been welcomed by the community of Soulection to maintain the [Tracklist website](https://soulectiontracklists.com/?ref=GitHub) in my own time. The website receives over 10,000 visits per month 👀 and the community have [donated over \$700](https://soulectiontracklists.com/open/?ref=GitHub) since 2018 to the website. 🙏🏾
+I have been welcomed by the community of Soulection to maintain the [Soulection website](https://soulection.com/?ref=GitHub) and Tracklist links in my own time. The website receives over 34,000 unique visits per month 👀 and the community have [donated over \$700](https://soulectiontracklists.com/open/?ref=GitHub) since 2018 to the tracklisting project. 🙏🏾
+
 
 ## Find me around the internet 🌍:
 
