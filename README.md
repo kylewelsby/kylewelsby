@@ -23,16 +23,16 @@
 
 I am a software engineer passionate about delivering fantastic customer experiences and business objectives, creating tools to automate repetitive tasks and improve the betterment and discovery of information. 🕵🏾‍♂️
 
-Some technologies I enjoy working with include Vue.js, Ruby on Rails, Firebase, and Jamstack (JavaScript, APIs + Markup). 👨🏾‍💻
+Some technologies I enjoy working with include [Vue.js](/vuejs/vue), [Nuxt.js](/nuxt/nuxt.js), [Ruby on Rails](/rails/rails), and [Supabase.io](/supabase/supabase). 👨🏾‍💻
 
 I have been welcomed by the community of Soulection to maintain the [Tracklist website](https://soulectiontracklists.com/?ref=GitHub) in my own time. The website receives over 10,000 visits per month 👀 and the community have [donated over \$700](https://soulectiontracklists.com/open/?ref=GitHub) since 2018 to the website. 🙏🏾
 
 ## Find me around the internet 🌍:
 
-- 📚Code writings and discoveries on [Dev.to](https://dev.to/kylewelsby)
-- 🙏🏾Help and Mentoring on [CodeMentor](https://www.codementor.io/@kylewelsby)
-- 🖐🏾Updates and availability on [LinkedIn](https://www.linkedin.com/in/mekyle/)
-- 📸Travel Photography and in-the-moment stories on [Instagram](https://www.instagram.com/halfcubeuk)
-- 🌱Tasty Plant-based food I eat also on [Instagram](https://www.instagram.com/halfcubeeats/)
-- ✍🏾Random ramblings and shoutouts on [Twitter](https://twitter.com/halfcube)
-- 👍More communication methods on my [Website](https://mekyle.com/?ref=GitHub)
+- 📚 Code writings and discoveries on [Dev.to](https://dev.to/kylewelsby)
+- 🙏🏾 Help and Mentoring on [CodeMentor](https://www.codementor.io/@kylewelsby)
+- 🖐🏾 Updates and availability on [LinkedIn](https://www.linkedin.com/in/mekyle/)
+- 📸 Travel Photography and in-the-moment stories on [Instagram](https://www.instagram.com/halfcubeuk)
+- 🌱 Tasty Plant-based food I eat also on [Instagram](https://www.instagram.com/halfcubeeats/)
+- ✍🏾 Random ramblings and shoutouts on [Twitter](https://twitter.com/halfcube)
+- 👍 More communication methods on my [Website](https://mekyle.com/?ref=GitHub)
