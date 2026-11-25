@@ -6,11 +6,10 @@ I'm building [ViaCara](https://viacara.com/) to connect clients with therapists,
 
 ## 🌱 Now: ViaCara
 
-It started at home. My partner is an independent therapist. Her diary stayed full while others around her waited for clients. Good practitioners are being asked to be marketers, so I'm building the part that helps connect clients with how they work.
+It started at home. My wife is an independent therapist. Good practitioners are being asked to be marketers, so I'm building the part that helps connect clients with how they work.
 
 - 🎬 Watch the founder film (1 min 37 s) on [mekyle.com](https://mekyle.com/?ref=GitHub).
-- 🤝 Are you a therapist, counsellor, hypnotherapist or coach? [Join ViaCara](https://viacara.com/for/). There's no subscription, and your first two introductions are free.
-- ✉️ Got a question about ViaCara? Email hello@viacara.com. I read every message and I answer them myself.
+- 🤝 Are you a therapist, counsellor, hypnotherapist or coach? [Join ViaCara](https://viacara.com/for/). Your first 2 client introductions are free.
 
 ## 🛠 Engineering
 
@@ -27,10 +26,10 @@ Hiring a product engineer? Email kyle.welsworth@pm.me, or find me on [LinkedIn](
 
 ## 📦 Open source
 
+- [Soulection Tracklists](https://soulectiontracklists.com/?ref=GitHub): every tracklist from Soulection Radio. I own the domain and maintain the archive of episodes 1 to 654 ([source](https://github.com/kylewelsby/v4.soulectiontracklists.com)).
 - [angular-post-message](https://github.com/kylewelsby/angular-post-message): cross-document messages in AngularJS through the `window.postMessage` API.
 - [dotsfont](https://github.com/kylewelsby/dotsfont): a work-around for the `-webkit-text-security` property.
 - [now-playing-widget](https://github.com/kylewelsby/now-playing-widget): the Last.fm track that is playing now, on a web page or in OBS Studio.
-- [v4.soulectiontracklists.com](https://github.com/kylewelsby/v4.soulectiontracklists.com): the Soulection tracklist site, built with Nuxt.js.
 
 ## 🎧 Outside of work
 
