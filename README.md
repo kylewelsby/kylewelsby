@@ -27,8 +27,6 @@ Hiring a product engineer? Email kyle.welsworth@pm.me, or find me on [LinkedIn](
 ## 📦 Open source
 
 - [Soulection Tracklists](https://soulectiontracklists.com/?ref=GitHub): every tracklist from Soulection Radio. I own the domain and maintain the archive of episodes 1 to 654 ([source](https://github.com/kylewelsby/v4.soulectiontracklists.com)).
-- [angular-post-message](https://github.com/kylewelsby/angular-post-message): cross-document messages in AngularJS through the `window.postMessage` API.
-- [dotsfont](https://github.com/kylewelsby/dotsfont): a work-around for the `-webkit-text-security` property.
 - [now-playing-widget](https://github.com/kylewelsby/now-playing-widget): the Last.fm track that is playing now, on a web page or in OBS Studio.
 
 ## 🎧 Outside of work
